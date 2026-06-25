@@ -8,6 +8,13 @@ selection.
 > Built by [LINK Arkitektur](https://linkarkitektur.com) as a public reference
 > for working with the ifc-lite native library from RhinoCommon.
 
+
+
+
+https://github.com/user-attachments/assets/4e2be2c5-4ab5-495a-8549-86341504e76d
+
+
+
 ---
 
 ## Features
