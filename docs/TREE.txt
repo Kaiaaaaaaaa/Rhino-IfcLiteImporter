@@ -1,0 +1,44 @@
+﻿Folder PATH listing for volume OS
+Volume serial number is F4A7-A315
+C:\USERS\KAIGIL\ONEDRIVENORCONSULT\DOCUMENTS\LOCAL\KAIA_KODING\_PROJECTS\RHINO-IFCLITEIMPORTER
+|   README.md
+|   
++---.github
+|   \---workflows
+|           
++---docs
+|   |   AGENTS.md
+|   |   CODEGRAPH.md
+|   |   CODEMAP.md
+|   |   DECISIONS.md
+|   |   IMPLEMENTATION_NOTES.md
+|   |   TREE.txt
+|   |   
+|   \---task-handoffs
+|           
++---external
+|   \---ifc-lite
++---installer
+|       
++---src
+|   +---IfcLite.Net
+|   |   |   
+|   \---IfcLiteImporter.Rhino
+|       |   
+|       +---Commands
+|       |       
+|       +---Import
+|       |       
+|       +---Properties
+|       |       launchSettings.json
+|       |       
+|       +---Resources
+|       |       link-logo.png
+|       |       
+|       \---UI
+|               
+\---tools
+        Normalize-CodeLineEndings.ps1
+        Update-CodeGraph.ps1
+        Update-CodeMap.ps1
+        
